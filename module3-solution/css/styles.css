@@ -1,0 +1,19 @@
+body {
+  font-size: 24px;
+  color: white;
+  background-color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+.chiken-title {
+  text-align: center;
+  font-size: 3 em;
+  color: black;
+
+}
+
+.contenido-texto{
+  color: black;
+}
